@@ -1,1 +1,0 @@
-# Energy-Efficient-Motor-Drive
